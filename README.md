@@ -100,18 +100,6 @@
 - Admin can delete a reservation by clicking the delete button.
 - Admin can view feedback by clicking the view button.
 
-## Project Report
-
-- Report consists of the following:
-    - Introduction
-    - Literature Review
-    - Methodology
-    - Result
-    - Conclusion
-    - References
-- The project report is written in Microsoft Word.
-- The project repot has flow chart, ERD, and UML diagram.
-
 
 ## Demo
 
